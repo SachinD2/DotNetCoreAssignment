@@ -1,0 +1,7 @@
+C:\Sachin\DotNet Training by Mahesh\Assignment_EmpList\Assignment_EmpList\bin\Debug\Assignment_EmpList.exe.config
+C:\Sachin\DotNet Training by Mahesh\Assignment_EmpList\Assignment_EmpList\bin\Debug\Assignment_EmpList.exe
+C:\Sachin\DotNet Training by Mahesh\Assignment_EmpList\Assignment_EmpList\bin\Debug\Assignment_EmpList.pdb
+C:\Sachin\DotNet Training by Mahesh\Assignment_EmpList\Assignment_EmpList\obj\Debug\Assignment_EmpList.csprojAssemblyReference.cache
+C:\Sachin\DotNet Training by Mahesh\Assignment_EmpList\Assignment_EmpList\obj\Debug\Assignment_EmpList.csproj.CoreCompileInputs.cache
+C:\Sachin\DotNet Training by Mahesh\Assignment_EmpList\Assignment_EmpList\obj\Debug\Assignment_EmpList.exe
+C:\Sachin\DotNet Training by Mahesh\Assignment_EmpList\Assignment_EmpList\obj\Debug\Assignment_EmpList.pdb

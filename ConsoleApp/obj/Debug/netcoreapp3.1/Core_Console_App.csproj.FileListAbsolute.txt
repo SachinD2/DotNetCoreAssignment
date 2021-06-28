@@ -1,0 +1,110 @@
+C:\CS Delegate\Core_Console_App\bin\Debug\netcoreapp3.1\Core_Console_App.exe
+C:\CS Delegate\Core_Console_App\bin\Debug\netcoreapp3.1\Core_Console_App.deps.json
+C:\CS Delegate\Core_Console_App\bin\Debug\netcoreapp3.1\Core_Console_App.runtimeconfig.json
+C:\CS Delegate\Core_Console_App\bin\Debug\netcoreapp3.1\Core_Console_App.runtimeconfig.dev.json
+C:\CS Delegate\Core_Console_App\bin\Debug\netcoreapp3.1\Core_Console_App.dll
+C:\CS Delegate\Core_Console_App\bin\Debug\netcoreapp3.1\Core_Console_App.pdb
+C:\CS Delegate\Core_Console_App\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\CS Delegate\Core_Console_App\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\CS Delegate\Core_Console_App\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\CS Delegate\Core_Console_App\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\CS Delegate\Core_Console_App\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\CS Delegate\Core_Console_App\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\CS Delegate\Core_Console_App\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\CS Delegate\Core_Console_App\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\CS Delegate\Core_Console_App\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\CS Delegate\Core_Console_App\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\CS Delegate\Core_Console_App\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\CS Delegate\Core_Console_App\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\CS Delegate\Core_Console_App\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\CS Delegate\Core_Console_App\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\CS Delegate\Core_Console_App\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\CS Delegate\Core_Console_App\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\CS Delegate\Core_Console_App\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\CS Delegate\Core_Console_App\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\CS Delegate\Core_Console_App\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\CS Delegate\Core_Console_App\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\CS Delegate\Core_Console_App\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\CS Delegate\Core_Console_App\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\CS Delegate\Core_Console_App\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\CS Delegate\Core_Console_App\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\CS Delegate\Core_Console_App\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\CS Delegate\Core_Console_App\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\CS Delegate\Core_Console_App\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\CS Delegate\Core_Console_App\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\CS Delegate\Core_Console_App\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\CS Delegate\Core_Console_App\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\CS Delegate\Core_Console_App\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\CS Delegate\Core_Console_App\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\CS Delegate\Core_Console_App\bin\Debug\netcoreapp3.1\System.Security.Permissions.dll
+C:\CS Delegate\Core_Console_App\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\CS Delegate\Core_Console_App\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\CS Delegate\Core_Console_App\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\CS Delegate\Core_Console_App\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\CS Delegate\Core_Console_App\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\CS Delegate\Core_Console_App\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\CS Delegate\Core_Console_App\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\CS Delegate\Core_Console_App\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\CS Delegate\Core_Console_App\obj\Debug\netcoreapp3.1\Core_Console_App.csprojAssemblyReference.cache
+C:\CS Delegate\Core_Console_App\obj\Debug\netcoreapp3.1\Core_Console_App.AssemblyInfoInputs.cache
+C:\CS Delegate\Core_Console_App\obj\Debug\netcoreapp3.1\Core_Console_App.AssemblyInfo.cs
+C:\CS Delegate\Core_Console_App\obj\Debug\netcoreapp3.1\Core_Console_App.csproj.CoreCompileInputs.cache
+C:\CS Delegate\Core_Console_App\obj\Debug\netcoreapp3.1\Core_Console_App.csproj.CopyComplete
+C:\CS Delegate\Core_Console_App\obj\Debug\netcoreapp3.1\Core_Console_App.dll
+C:\CS Delegate\Core_Console_App\obj\Debug\netcoreapp3.1\Core_Console_App.pdb
+C:\CS Delegate\Core_Console_App\obj\Debug\netcoreapp3.1\Core_Console_App.genruntimeconfig.cache
+C:\Sachin\DotNet_ImpactTraining\Assignment_NET\Assignment_NET-master\Core_Console_App\bin\Debug\netcoreapp3.1\Core_Console_App.exe
+C:\Sachin\DotNet_ImpactTraining\Assignment_NET\Assignment_NET-master\Core_Console_App\bin\Debug\netcoreapp3.1\Core_Console_App.deps.json
+C:\Sachin\DotNet_ImpactTraining\Assignment_NET\Assignment_NET-master\Core_Console_App\bin\Debug\netcoreapp3.1\Core_Console_App.runtimeconfig.json
+C:\Sachin\DotNet_ImpactTraining\Assignment_NET\Assignment_NET-master\Core_Console_App\bin\Debug\netcoreapp3.1\Core_Console_App.runtimeconfig.dev.json
+C:\Sachin\DotNet_ImpactTraining\Assignment_NET\Assignment_NET-master\Core_Console_App\bin\Debug\netcoreapp3.1\Core_Console_App.dll
+C:\Sachin\DotNet_ImpactTraining\Assignment_NET\Assignment_NET-master\Core_Console_App\bin\Debug\netcoreapp3.1\Core_Console_App.pdb
+C:\Sachin\DotNet_ImpactTraining\Assignment_NET\Assignment_NET-master\Core_Console_App\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Sachin\DotNet_ImpactTraining\Assignment_NET\Assignment_NET-master\Core_Console_App\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Sachin\DotNet_ImpactTraining\Assignment_NET\Assignment_NET-master\Core_Console_App\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Sachin\DotNet_ImpactTraining\Assignment_NET\Assignment_NET-master\Core_Console_App\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Sachin\DotNet_ImpactTraining\Assignment_NET\Assignment_NET-master\Core_Console_App\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Sachin\DotNet_ImpactTraining\Assignment_NET\Assignment_NET-master\Core_Console_App\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Sachin\DotNet_ImpactTraining\Assignment_NET\Assignment_NET-master\Core_Console_App\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Sachin\DotNet_ImpactTraining\Assignment_NET\Assignment_NET-master\Core_Console_App\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Sachin\DotNet_ImpactTraining\Assignment_NET\Assignment_NET-master\Core_Console_App\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Sachin\DotNet_ImpactTraining\Assignment_NET\Assignment_NET-master\Core_Console_App\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Sachin\DotNet_ImpactTraining\Assignment_NET\Assignment_NET-master\Core_Console_App\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Sachin\DotNet_ImpactTraining\Assignment_NET\Assignment_NET-master\Core_Console_App\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Sachin\DotNet_ImpactTraining\Assignment_NET\Assignment_NET-master\Core_Console_App\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Sachin\DotNet_ImpactTraining\Assignment_NET\Assignment_NET-master\Core_Console_App\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Sachin\DotNet_ImpactTraining\Assignment_NET\Assignment_NET-master\Core_Console_App\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Sachin\DotNet_ImpactTraining\Assignment_NET\Assignment_NET-master\Core_Console_App\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Sachin\DotNet_ImpactTraining\Assignment_NET\Assignment_NET-master\Core_Console_App\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Sachin\DotNet_ImpactTraining\Assignment_NET\Assignment_NET-master\Core_Console_App\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Sachin\DotNet_ImpactTraining\Assignment_NET\Assignment_NET-master\Core_Console_App\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Sachin\DotNet_ImpactTraining\Assignment_NET\Assignment_NET-master\Core_Console_App\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Sachin\DotNet_ImpactTraining\Assignment_NET\Assignment_NET-master\Core_Console_App\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Sachin\DotNet_ImpactTraining\Assignment_NET\Assignment_NET-master\Core_Console_App\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Sachin\DotNet_ImpactTraining\Assignment_NET\Assignment_NET-master\Core_Console_App\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Sachin\DotNet_ImpactTraining\Assignment_NET\Assignment_NET-master\Core_Console_App\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Sachin\DotNet_ImpactTraining\Assignment_NET\Assignment_NET-master\Core_Console_App\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Sachin\DotNet_ImpactTraining\Assignment_NET\Assignment_NET-master\Core_Console_App\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Sachin\DotNet_ImpactTraining\Assignment_NET\Assignment_NET-master\Core_Console_App\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Sachin\DotNet_ImpactTraining\Assignment_NET\Assignment_NET-master\Core_Console_App\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Sachin\DotNet_ImpactTraining\Assignment_NET\Assignment_NET-master\Core_Console_App\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Sachin\DotNet_ImpactTraining\Assignment_NET\Assignment_NET-master\Core_Console_App\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Sachin\DotNet_ImpactTraining\Assignment_NET\Assignment_NET-master\Core_Console_App\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Sachin\DotNet_ImpactTraining\Assignment_NET\Assignment_NET-master\Core_Console_App\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Sachin\DotNet_ImpactTraining\Assignment_NET\Assignment_NET-master\Core_Console_App\bin\Debug\netcoreapp3.1\System.Security.Permissions.dll
+C:\Sachin\DotNet_ImpactTraining\Assignment_NET\Assignment_NET-master\Core_Console_App\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Sachin\DotNet_ImpactTraining\Assignment_NET\Assignment_NET-master\Core_Console_App\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Sachin\DotNet_ImpactTraining\Assignment_NET\Assignment_NET-master\Core_Console_App\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Sachin\DotNet_ImpactTraining\Assignment_NET\Assignment_NET-master\Core_Console_App\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Sachin\DotNet_ImpactTraining\Assignment_NET\Assignment_NET-master\Core_Console_App\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Sachin\DotNet_ImpactTraining\Assignment_NET\Assignment_NET-master\Core_Console_App\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Sachin\DotNet_ImpactTraining\Assignment_NET\Assignment_NET-master\Core_Console_App\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Sachin\DotNet_ImpactTraining\Assignment_NET\Assignment_NET-master\Core_Console_App\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Sachin\DotNet_ImpactTraining\Assignment_NET\Assignment_NET-master\Core_Console_App\obj\Debug\netcoreapp3.1\Core_Console_App.csprojAssemblyReference.cache
+C:\Sachin\DotNet_ImpactTraining\Assignment_NET\Assignment_NET-master\Core_Console_App\obj\Debug\netcoreapp3.1\Core_Console_App.AssemblyInfoInputs.cache
+C:\Sachin\DotNet_ImpactTraining\Assignment_NET\Assignment_NET-master\Core_Console_App\obj\Debug\netcoreapp3.1\Core_Console_App.AssemblyInfo.cs
+C:\Sachin\DotNet_ImpactTraining\Assignment_NET\Assignment_NET-master\Core_Console_App\obj\Debug\netcoreapp3.1\Core_Console_App.csproj.CoreCompileInputs.cache
+C:\Sachin\DotNet_ImpactTraining\Assignment_NET\Assignment_NET-master\Core_Console_App\obj\Debug\netcoreapp3.1\Core_Console_App.csproj.CopyComplete
+C:\Sachin\DotNet_ImpactTraining\Assignment_NET\Assignment_NET-master\Core_Console_App\obj\Debug\netcoreapp3.1\Core_Console_App.dll
+C:\Sachin\DotNet_ImpactTraining\Assignment_NET\Assignment_NET-master\Core_Console_App\obj\Debug\netcoreapp3.1\Core_Console_App.pdb
+C:\Sachin\DotNet_ImpactTraining\Assignment_NET\Assignment_NET-master\Core_Console_App\obj\Debug\netcoreapp3.1\Core_Console_App.genruntimeconfig.cache

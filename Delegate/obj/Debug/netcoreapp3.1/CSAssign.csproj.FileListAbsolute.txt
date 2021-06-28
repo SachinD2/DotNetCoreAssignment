@@ -1,0 +1,38 @@
+C:\Users\Meharshg\Desktop\CitiusTech Training\CSharpTraing2ndJune\CS Delegate\CS Delegate\obj\Debug\netcoreapp3.1\CSAssign.csprojAssemblyReference.cache
+C:\Users\Meharshg\Desktop\CitiusTech Training\CSharpTraing2ndJune\CS Delegate\CS Delegate\obj\Debug\netcoreapp3.1\CSAssign.AssemblyInfoInputs.cache
+C:\Users\Meharshg\Desktop\CitiusTech Training\CSharpTraing2ndJune\CS Delegate\CS Delegate\obj\Debug\netcoreapp3.1\CSAssign.AssemblyInfo.cs
+C:\Users\Meharshg\Desktop\CitiusTech Training\CSharpTraing2ndJune\CS Delegate\CS Delegate\obj\Debug\netcoreapp3.1\CSAssign.csproj.CoreCompileInputs.cache
+C:\Users\Meharshg\Desktop\CitiusTech Training\CSharpTraing2ndJune\CS Delegate\CS Delegate\bin\Debug\netcoreapp3.1\CSAssign.exe
+C:\Users\Meharshg\Desktop\CitiusTech Training\CSharpTraing2ndJune\CS Delegate\CS Delegate\bin\Debug\netcoreapp3.1\CSAssign.deps.json
+C:\Users\Meharshg\Desktop\CitiusTech Training\CSharpTraing2ndJune\CS Delegate\CS Delegate\bin\Debug\netcoreapp3.1\CSAssign.runtimeconfig.json
+C:\Users\Meharshg\Desktop\CitiusTech Training\CSharpTraing2ndJune\CS Delegate\CS Delegate\bin\Debug\netcoreapp3.1\CSAssign.runtimeconfig.dev.json
+C:\Users\Meharshg\Desktop\CitiusTech Training\CSharpTraing2ndJune\CS Delegate\CS Delegate\bin\Debug\netcoreapp3.1\CSAssign.dll
+C:\Users\Meharshg\Desktop\CitiusTech Training\CSharpTraing2ndJune\CS Delegate\CS Delegate\bin\Debug\netcoreapp3.1\CSAssign.pdb
+C:\Users\Meharshg\Desktop\CitiusTech Training\CSharpTraing2ndJune\CS Delegate\CS Delegate\obj\Debug\netcoreapp3.1\CSAssign.dll
+C:\Users\Meharshg\Desktop\CitiusTech Training\CSharpTraing2ndJune\CS Delegate\CS Delegate\obj\Debug\netcoreapp3.1\CSAssign.pdb
+C:\Users\Meharshg\Desktop\CitiusTech Training\CSharpTraing2ndJune\CS Delegate\CS Delegate\obj\Debug\netcoreapp3.1\CSAssign.genruntimeconfig.cache
+C:\CS Delegate\CS Delegate\bin\Debug\netcoreapp3.1\CSAssign.exe
+C:\CS Delegate\CS Delegate\bin\Debug\netcoreapp3.1\CSAssign.deps.json
+C:\CS Delegate\CS Delegate\bin\Debug\netcoreapp3.1\CSAssign.runtimeconfig.json
+C:\CS Delegate\CS Delegate\bin\Debug\netcoreapp3.1\CSAssign.runtimeconfig.dev.json
+C:\CS Delegate\CS Delegate\bin\Debug\netcoreapp3.1\CSAssign.dll
+C:\CS Delegate\CS Delegate\bin\Debug\netcoreapp3.1\CSAssign.pdb
+C:\CS Delegate\CS Delegate\obj\Debug\netcoreapp3.1\CSAssign.AssemblyInfoInputs.cache
+C:\CS Delegate\CS Delegate\obj\Debug\netcoreapp3.1\CSAssign.AssemblyInfo.cs
+C:\CS Delegate\CS Delegate\obj\Debug\netcoreapp3.1\CSAssign.csproj.CoreCompileInputs.cache
+C:\CS Delegate\CS Delegate\obj\Debug\netcoreapp3.1\CSAssign.dll
+C:\CS Delegate\CS Delegate\obj\Debug\netcoreapp3.1\CSAssign.pdb
+C:\CS Delegate\CS Delegate\obj\Debug\netcoreapp3.1\CSAssign.genruntimeconfig.cache
+C:\CS Delegate\CS Delegate\obj\Debug\netcoreapp3.1\CSAssign.csprojAssemblyReference.cache
+C:\Sachin\DotNet_ImpactTraining\Assignment_NET\Assignment_NET-master\CS Delegate\bin\Debug\netcoreapp3.1\CSAssign.exe
+C:\Sachin\DotNet_ImpactTraining\Assignment_NET\Assignment_NET-master\CS Delegate\bin\Debug\netcoreapp3.1\CSAssign.deps.json
+C:\Sachin\DotNet_ImpactTraining\Assignment_NET\Assignment_NET-master\CS Delegate\bin\Debug\netcoreapp3.1\CSAssign.runtimeconfig.json
+C:\Sachin\DotNet_ImpactTraining\Assignment_NET\Assignment_NET-master\CS Delegate\bin\Debug\netcoreapp3.1\CSAssign.runtimeconfig.dev.json
+C:\Sachin\DotNet_ImpactTraining\Assignment_NET\Assignment_NET-master\CS Delegate\bin\Debug\netcoreapp3.1\CSAssign.dll
+C:\Sachin\DotNet_ImpactTraining\Assignment_NET\Assignment_NET-master\CS Delegate\bin\Debug\netcoreapp3.1\CSAssign.pdb
+C:\Sachin\DotNet_ImpactTraining\Assignment_NET\Assignment_NET-master\CS Delegate\obj\Debug\netcoreapp3.1\CSAssign.AssemblyInfoInputs.cache
+C:\Sachin\DotNet_ImpactTraining\Assignment_NET\Assignment_NET-master\CS Delegate\obj\Debug\netcoreapp3.1\CSAssign.AssemblyInfo.cs
+C:\Sachin\DotNet_ImpactTraining\Assignment_NET\Assignment_NET-master\CS Delegate\obj\Debug\netcoreapp3.1\CSAssign.csproj.CoreCompileInputs.cache
+C:\Sachin\DotNet_ImpactTraining\Assignment_NET\Assignment_NET-master\CS Delegate\obj\Debug\netcoreapp3.1\CSAssign.dll
+C:\Sachin\DotNet_ImpactTraining\Assignment_NET\Assignment_NET-master\CS Delegate\obj\Debug\netcoreapp3.1\CSAssign.pdb
+C:\Sachin\DotNet_ImpactTraining\Assignment_NET\Assignment_NET-master\CS Delegate\obj\Debug\netcoreapp3.1\CSAssign.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Sachin\DotNet_ImpactTraining\Assignment_NET\Assignment_NET-master\CS_Threading_Sync\bin\Debug\netcoreapp3.1\Threading_Sync.exe
+C:\Sachin\DotNet_ImpactTraining\Assignment_NET\Assignment_NET-master\CS_Threading_Sync\bin\Debug\netcoreapp3.1\bin\Debug\netcoreapp3.1\File.txt
+C:\Sachin\DotNet_ImpactTraining\Assignment_NET\Assignment_NET-master\CS_Threading_Sync\bin\Debug\netcoreapp3.1\Threading_Sync.deps.json
+C:\Sachin\DotNet_ImpactTraining\Assignment_NET\Assignment_NET-master\CS_Threading_Sync\bin\Debug\netcoreapp3.1\Threading_Sync.runtimeconfig.json
+C:\Sachin\DotNet_ImpactTraining\Assignment_NET\Assignment_NET-master\CS_Threading_Sync\bin\Debug\netcoreapp3.1\Threading_Sync.runtimeconfig.dev.json
+C:\Sachin\DotNet_ImpactTraining\Assignment_NET\Assignment_NET-master\CS_Threading_Sync\bin\Debug\netcoreapp3.1\Threading_Sync.dll
+C:\Sachin\DotNet_ImpactTraining\Assignment_NET\Assignment_NET-master\CS_Threading_Sync\bin\Debug\netcoreapp3.1\Threading_Sync.pdb
+C:\Sachin\DotNet_ImpactTraining\Assignment_NET\Assignment_NET-master\CS_Threading_Sync\obj\Debug\netcoreapp3.1\Threading_Sync.AssemblyInfoInputs.cache
+C:\Sachin\DotNet_ImpactTraining\Assignment_NET\Assignment_NET-master\CS_Threading_Sync\obj\Debug\netcoreapp3.1\Threading_Sync.AssemblyInfo.cs
+C:\Sachin\DotNet_ImpactTraining\Assignment_NET\Assignment_NET-master\CS_Threading_Sync\obj\Debug\netcoreapp3.1\Threading_Sync.csproj.CoreCompileInputs.cache
+C:\Sachin\DotNet_ImpactTraining\Assignment_NET\Assignment_NET-master\CS_Threading_Sync\obj\Debug\netcoreapp3.1\Threading_Sync.dll
+C:\Sachin\DotNet_ImpactTraining\Assignment_NET\Assignment_NET-master\CS_Threading_Sync\obj\Debug\netcoreapp3.1\Threading_Sync.pdb
+C:\Sachin\DotNet_ImpactTraining\Assignment_NET\Assignment_NET-master\CS_Threading_Sync\obj\Debug\netcoreapp3.1\Threading_Sync.genruntimeconfig.cache

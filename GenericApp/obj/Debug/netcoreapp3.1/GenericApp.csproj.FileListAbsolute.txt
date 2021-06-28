@@ -1,0 +1,12 @@
+C:\Sachin\DotNet_ImpactTraining\Assignment_NET\Assignment_NET-master\CS_Generic_App\bin\Debug\netcoreapp3.1\GenericApp.exe
+C:\Sachin\DotNet_ImpactTraining\Assignment_NET\Assignment_NET-master\CS_Generic_App\bin\Debug\netcoreapp3.1\GenericApp.deps.json
+C:\Sachin\DotNet_ImpactTraining\Assignment_NET\Assignment_NET-master\CS_Generic_App\bin\Debug\netcoreapp3.1\GenericApp.runtimeconfig.json
+C:\Sachin\DotNet_ImpactTraining\Assignment_NET\Assignment_NET-master\CS_Generic_App\bin\Debug\netcoreapp3.1\GenericApp.runtimeconfig.dev.json
+C:\Sachin\DotNet_ImpactTraining\Assignment_NET\Assignment_NET-master\CS_Generic_App\bin\Debug\netcoreapp3.1\GenericApp.dll
+C:\Sachin\DotNet_ImpactTraining\Assignment_NET\Assignment_NET-master\CS_Generic_App\bin\Debug\netcoreapp3.1\GenericApp.pdb
+C:\Sachin\DotNet_ImpactTraining\Assignment_NET\Assignment_NET-master\CS_Generic_App\obj\Debug\netcoreapp3.1\GenericApp.AssemblyInfoInputs.cache
+C:\Sachin\DotNet_ImpactTraining\Assignment_NET\Assignment_NET-master\CS_Generic_App\obj\Debug\netcoreapp3.1\GenericApp.AssemblyInfo.cs
+C:\Sachin\DotNet_ImpactTraining\Assignment_NET\Assignment_NET-master\CS_Generic_App\obj\Debug\netcoreapp3.1\GenericApp.csproj.CoreCompileInputs.cache
+C:\Sachin\DotNet_ImpactTraining\Assignment_NET\Assignment_NET-master\CS_Generic_App\obj\Debug\netcoreapp3.1\GenericApp.dll
+C:\Sachin\DotNet_ImpactTraining\Assignment_NET\Assignment_NET-master\CS_Generic_App\obj\Debug\netcoreapp3.1\GenericApp.pdb
+C:\Sachin\DotNet_ImpactTraining\Assignment_NET\Assignment_NET-master\CS_Generic_App\obj\Debug\netcoreapp3.1\GenericApp.genruntimeconfig.cache
